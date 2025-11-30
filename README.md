@@ -13,7 +13,7 @@ Je suis orientée Cloud Computing, développement logiciel, architecture & sécu
 Je crois en l’apprentissage continu et en la création de solutions à impact.
 
 💠 **Master en Génie Logiciel & SI — ESP Dakar**  
-💠 **Certifiée AWS Cloud Practitioner (re/Start – Sonatel Academy)**  
+💠 **Certifiée AWS Cloud Practitioner (AWS re/Start – Sonatel Academy)**  
 💠 Objectif : *Devenir Cloud Architect & construire des solutions scalables et résilientes*
 
 ---
