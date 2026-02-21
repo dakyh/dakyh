@@ -23,7 +23,6 @@ Je crois en l’apprentissage continu et en la création de solutions à impact.
 <p>
   <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-Backend-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-Dev-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Dev-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-System-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
